@@ -1,0 +1,24 @@
+CACHE MANIFEST
+# rev 20260920-181000-user-edits-logo
+
+index.html
+jb.html
+jb.js
+core.js
+mem.js
+int64.js
+ps4_offsets.js
+rpc_worker.js
+payload2.bin
+patches/1302.bin
+patches/1350.bin
+patches/1352.bin
+core.js?v=11
+jb.js?v=11
+
+NETWORK:
+*
+
+FALLBACK:
+index.html index.html
+jb.html jb.html
